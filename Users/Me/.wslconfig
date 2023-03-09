@@ -1,0 +1,9 @@
+[wsl2]
+kernel = C:\\Users\\Me\\bzImage_9p_10xperf
+swap = 0
+#swapfile = C:\\temp\\wsl-swap.vhdx
+localhostForwarding = true
+#systemDistro = C:\\Files\\system.vhd
+#kernelCommandLine = vsyscall=emulate
+#guiApplications = false
+#debugConsole = true
